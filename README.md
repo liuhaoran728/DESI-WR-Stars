@@ -1,0 +1,1 @@
+# DESI-WR-Stars Classification Task
